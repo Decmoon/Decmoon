@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-Welcome to my homepage
-I am a software developer based in China.
-Here are some of my projects to share
+Welcome to my homepage.
+I am a software developer based in China,
+and here are some of my projects to share.
 
 Success has no rules, but we can learn a lot from failure
 
