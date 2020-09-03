@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 <!--
 **Decmoon/Decmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Welcome to my homepage
+I am a software developer based in China.
+Here are some of my projects to share
+
+Success has no rules, but we can learn a lot from failure
+
+Life goes on learning 🌱
